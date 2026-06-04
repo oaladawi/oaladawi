@@ -51,12 +51,12 @@ My interests sit at the intersection of **investment banking, corporate finance,
 
 | Role | Organization | When | Detail |
 |---|---|---|---|
-| Subject Area Peer Lead | Arizona State University | Feb 2026–Present | [leadership/tutoring-impact.md](leadership/tutoring-impact.md) |
-| Investment Banking Advisory Intern — ECM | Sohar International | Jun–Aug 2025 | [experience/internship-1.md](experience/internship-1.md) |
-| Finance & Commercial Intern | OQ | Jul–Aug 2024 | [experience/internship-2.md](experience/internship-2.md) |
-| Finance & Accounting Trainee | Tibiaan Properties | Jun–Jul 2023 | [experience/internship-3.md](experience/internship-3.md) |
-| Trainee | Msyaaf Group | May–Jun 2023 | [experience/internship-4.md](experience/internship-4.md) |
-| Founder | Just Brew | Aug 2023–Present | [projects/project-3.md](projects/project-3.md) |
+| Subject Area Peer Lead | Arizona State University | Feb 2026–Present | [tutoring-impact.md](tutoring-impact.md) |
+| Investment Banking Advisory Intern — ECM | Sohar International | Jun–Aug 2025 | [internship-1.md](internship-1.md) |
+| Finance & Commercial Intern | OQ | Jul–Aug 2024 | [internship-2.md](internship-2.md) |
+| Finance & Accounting Trainee | Tibiaan Properties | Jun–Jul 2023 | [internship-3.md](internship-3.md) |
+| Trainee | Msyaaf Group | May–Jun 2023 | [internship-4.md](internship-4.md) |
+| Founder | Just Brew | Aug 2023–Present | [project-3.md](project-3.md) |
 
 ---
 
@@ -64,10 +64,10 @@ My interests sit at the intersection of **investment banking, corporate finance,
 
 | Project | Stack | What it shows |
 |---|---|---|
-| [Superstore Sales Analysis](projects/project-1.md) | Python · pandas · numpy · matplotlib · seaborn | Full analytics pipeline on ~10k orders, EDA → business recommendations |
-| [Used Car Price Analytics Lakehouse](projects/project-2.md) | Microsoft Fabric · Power BI · Star Schema | End-to-end lakehouse + dimensional model on tens of thousands of listings |
-| [Just Brew (Venture)](projects/project-3.md) | Operations · Pricing · Growth | Founded and runs a profitable cold-coffee business |
-| [Automated Trading Bot](projects/project-4.md) | Python · Interactive Brokers API · AI | Self-built bot with live data and rules-based risk management |
+| [Superstore Sales Analysis](project-1.md) | Python · pandas · numpy · matplotlib · seaborn | Full analytics pipeline on ~10k orders, EDA → business recommendations |
+| [Used Car Price Analytics Lakehouse](project-2.md) | Microsoft Fabric · Power BI · Star Schema | End-to-end lakehouse + dimensional model on tens of thousands of listings |
+| [Just Brew (Venture)](project-3.md) | Operations · Pricing · Growth | Founded and runs a profitable cold-coffee business |
+| [Automated Trading Bot](project-4.md) | Python · Interactive Brokers API · AI | Self-built bot with live data and rules-based risk management |
 
 ---
 
@@ -78,7 +78,7 @@ My interests sit at the intersection of **investment banking, corporate finance,
 **Tools:** Advanced Excel · SAP · Argus Media · Draw.io
 **Leadership:** Budget Ownership · Event Management · Team Mentorship · Stakeholder Coordination
 
-Full breakdown with evidence → [skills/](skills/)
+Full breakdown with evidence → [technical.md](technical.md)
 
 ---
 
@@ -92,21 +92,21 @@ Full breakdown with evidence → [skills/](skills/)
 - Contributed to **4 live ECM transactions** and valuation work on **12+ companies**
 - Managed a **$30,000+** student association budget and secured **$5,000+** in sponsorships
 
-Full list → [achievements/](achievements/)
+Full list → [awards.md](awards.md)
 
 ---
 
 ## 📂 Explore More
 
-- **About:** [Professional Bio](about/professional-bio.md) · [Career Story](about/career-story.md) · [Leadership Philosophy](about/leadership-philosophy.md) · [Personal Brand](about/personal-brand.md) · [Future Vision](about/future-career-vision.md)
-- **Interview Prep:** [Tell Me About Yourself](interview/tell-me-about-yourself.md) · [Networking Intros](interview/networking-introductions.md)
-- **For Recruiters:** [LinkedIn About Section](about/linkedin-about.md)
+- **About:** [Professional Bio](professional-bio.md) · [Career Story](career-story.md) · [Leadership Philosophy](leadership-philosophy.md) · [Personal Brand](personal-brand.md) · [Future Vision](future-career-vision.md)
+- **Interview Prep:** [Tell Me About Yourself](tell-me-about-yourself.md) · [Networking Intros](networking-introductions.md)
+- **For Recruiters:** [LinkedIn About Section](linkedin-about.md)
 
 ---
 
 ## 🎯 Where I'm Headed
 
-Short term, I am targeting analyst opportunities in **investment banking, corporate finance, and strategic finance**, ideally where I can combine deal work with data. Longer term, I want to grow into a finance leader who can move between the deal table and the data — in global financial centers and back home in the GCC. More on this → [about/career-story.md](about/career-story.md).
+Short term, I am targeting analyst opportunities in **investment banking, corporate finance, and strategic finance**, ideally where I can combine deal work with data. Longer term, I want to grow into a finance leader who can move between the deal table and the data — in global financial centers and back home in the GCC. More on this → [career-story.md](career-story.md).
 
 ---
 
